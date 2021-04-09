@@ -1,0 +1,5 @@
+_project
+.idea
+*.pyc
+*.log
+__pycache__
